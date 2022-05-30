@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "EY Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "My Book"
+      href: mybook.html
+    - text: "Research"
+      href: research.html
+

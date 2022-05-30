@@ -1,0 +1,6 @@
+---
+title: "My Book"
+output: html_document
+---
+
+I will write a really good book here.
